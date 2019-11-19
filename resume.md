@@ -1,4 +1,4 @@
-[Home]() | [Resume](resume.md)
+[Home](https://trentcallan.github.io/) | [Resume](resume.md)
 
 # Resume
 
