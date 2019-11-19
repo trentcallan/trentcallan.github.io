@@ -1,4 +1,4 @@
-[Home]() [Resume](resume.md)
+[Home]() | [Resume](resume.md)
 
 # Qwesty iOS Application
 
