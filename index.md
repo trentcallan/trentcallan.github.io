@@ -13,3 +13,7 @@ An application I created and published to the app store!
 November 19th, 2019
 
 I created a lamp that receives microphone analog data via udp packets.
+
+## [Freelance iOS Development](freelance_post.md)
+---
+October 20th, 2019
