@@ -1,6 +1,8 @@
+[Home](https://trentcallan.github.io/) | [Resume](resume.md)
+
 # Qwesty iOS application
 
-Here is a link to the app on the app store: https://apps.apple.com/us/app/qwesty/id1486407706?ls=1
+Here is a link to the app on the app store: <https://apps.apple.com/us/app/qwesty/id1486407706?ls=1>
 
 I decided to make an iOS application to put on the app store to learn about the process a bit more.  
 
