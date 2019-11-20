@@ -11,3 +11,25 @@ I had to solder connections between about 40+ wires.  It was tough because some 
 Once connections were soldered and it worked I thought it would be cool to add a website to the lamp controller that has options for settings of the lamp (instead of using physical items such as potentiometers and buttons).  So I added that in order to be able to choose the mode of the lamp.  You can choose between music reactive, rainbow and choosing your own color based on rgb values.
 
 My final advice for anyone creating their own project like this or any project with soldering really would be to create enclosures for the electronics first so you know how long the wires you solder need to be.  I made my long enough that I could get it to work but I think it would’ve been a lot easier to make it work if I had made the enclosure first!
+
+![photo](https://trentcallan.github.io/content/led_controller_1.JPG "led lamp")
+
+![photo](https://trentcallan.github.io/content/led_controller_2.JPG "led lamp")
+
+![photo](https://trentcallan.github.io/content/led_lamp_1.JPG "led lamp")
+
+![photo](https://trentcallan.github.io/content/led_lamp_2.JPG "led lamp")
+
+![photo](https://trentcallan.github.io/content/webserver.png "selection menu")
+
+<video width="320" height="240" controls>
+  <source src="https://trentcallan.github.io/content/music_reactive_test_480p.mov" type="video/mp4">
+</video>
+
+![](https://trentcallan.github.io/content/music_reactive_test_480p.mov)
+
+![](https://trentcallan.github.io/content/test_webserver_720p.mov)
+
+<embed src="https://trentcallan.github.io/content/music_reactive_test_480p.mov">
+
+<embed src="https://trentcallan.github.io/content/test_webserver_720p.mov">
