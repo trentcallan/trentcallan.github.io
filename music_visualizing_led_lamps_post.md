@@ -1,6 +1,8 @@
+[Home](https://trentcallan.github.io/) | [Resume](resume.md)
+
 # Music Reactive Lights
 
-I was inspired and used a lot from this video on youtube by Nerdforge, feel free to check it out - https://www.youtube.com/watch?v=yninmUrl4C0&t=1s
+I was inspired and used a lot from this video on youtube by Nerdforge, feel free to check it out - <https://www.youtube.com/watch?v=yninmUrl4C0&t=1s>
 
 This project was a great way to get introduced to using the esp8266 arduino wifi microcontrollers.  I followed the same idea in the youtube video where I planned on creating a lamp controller box that contains an esp8266 and a microphone and a lamp with an esp8266 controlling the LEDs.   The esp8266’s would connect to wifi and communicate with each other by sending udp packets.  It was pretty easy to set that up and get them working to be able to communicate.  The hardest part of this project was soldering.
 
