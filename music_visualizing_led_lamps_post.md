@@ -26,10 +26,6 @@ My final advice for anyone creating their own project like this or any project w
   <source src="https://trentcallan.github.io/content/music_reactive_test_480p.mov" type="video/mp4">
 </video>
 
-![](https://trentcallan.github.io/content/music_reactive_test_480p.mov)
-
-![](https://trentcallan.github.io/content/test_webserver_720p.mov)
-
-<embed src="https://trentcallan.github.io/content/music_reactive_test_480p.mov">
-
-<embed src="https://trentcallan.github.io/content/test_webserver_720p.mov">
+<video width="320" height="240" controls>
+  <source src="https://trentcallan.github.io/content/test_webserver_720p.mov" type="video/mp4">
+</video>
