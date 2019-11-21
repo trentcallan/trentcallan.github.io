@@ -1,5 +1,3 @@
 [Home](https://trentcallan.github.io/) | [Resume](resume.md)
 
-# Resume
-
-Put resume here!
+# [Resume](https://trentcallan.github.io/content/newTestResume.pdf)
